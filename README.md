@@ -2,6 +2,8 @@
 
 ## Introduction
 
+DOM IS AWESOME!
+
 This project is the seed project for Small Group Work Experience.  
 It contains all of the information required to setup the student's laptop, the starting code (which is intentionally buggy!) and the bugs and user stories that they will work through during their week.
 
